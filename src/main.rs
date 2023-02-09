@@ -1,6 +1,7 @@
 use http::Method;
 use http::Request;
 use server::Server;
+use std::string;
 
 mod http;
 mod server;

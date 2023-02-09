@@ -1,7 +1,7 @@
 use super::method::Method;
 
 pub struct Request {
-    path: String,
-    query_string: String,
-    method: Method,
+    pub path: String,
+    pub query_string: Option<String>,
+    pub method: Method,
 }
