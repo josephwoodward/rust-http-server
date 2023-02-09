@@ -1,4 +1,3 @@
-# HTTP Server in Rust
+# Rust HTTP Server
 
-
-Whilst learning Rust I thought what better way to learn to write an HTTP server.
+A _very_ simple HTTP Server built using Rust as a means of learning the language. 
